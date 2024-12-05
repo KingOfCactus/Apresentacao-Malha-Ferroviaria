@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Tracking Test.unity
     guid: 50d80f2e8867bf935b4d813772779f37
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.26.0/Hello Cardboard/Scenes/HelloCardboard.unity
     guid: 03c48c5e809944fa4afcae9973709f26
   m_configObjects:

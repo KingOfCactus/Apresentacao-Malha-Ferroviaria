@@ -2,6 +2,7 @@
   "dependencies": {
     "com.google.xr.cardboard": "https://github.com/googlevr/cardboard-xr-plugin.git",
     "com.unity.collab-proxy": "2.5.2",
+    "com.unity.formats.usd": "3.0.0-exp.5",
     "com.unity.ide.visualstudio": "2.0.22",
     "com.unity.ide.vscode": "1.2.5",
     "com.unity.inputsystem": "1.8.2",

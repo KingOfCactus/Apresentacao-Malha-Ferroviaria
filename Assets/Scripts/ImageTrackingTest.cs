@@ -4,6 +4,7 @@ using UnityEngine.XR.ARFoundation;
 using UnityEngine.UI;
 using UnityEngine;
 using TMPro;
+using Unity.VisualScripting;
 
 [RequireComponent(typeof(ARTrackedImageManager))]
 public class ImageTrackingTest : MonoBehaviour
@@ -19,6 +20,10 @@ public class ImageTrackingTest : MonoBehaviour
 
     ARTrackedImageManager trackingManager;
     GameObject mask, model;
+    
+    float frameRate;
+    float elapsedTime, elapsedFrames;
+    
     
     void Start()
     {
@@ -54,5 +59,51 @@ public class ImageTrackingTest : MonoBehaviour
         var oldPos = model.transform.localPosition;
         modelHeightText.text = modelHeightSlider.value.ToString();
         model.transform.localPosition = new Vector3(oldPos.x, modelHeightSlider.value, oldPos.z);
+    }
+
+
+    void Update()
+    {
+        if (elapsedTime >= 1f)
+        {
+            frameRate = elapsedFrames / elapsedTime;
+            elapsedFrames = 0;
+            elapsedTime = .0f;
+        }
+
+        elapsedFrames++;
+        elapsedTime += Time.deltaTime;
+    }
+
+    void OnGUI()
+    {
+        var labelStyle = GUI.skin.label;
+        labelStyle.fontSize = 24;
+
+        GUILayout.Label($"FPS: {frameRate}", labelStyle);
+        GUILayout.Label($"Camera Transform: {Camera.main.transform.position}", labelStyle);
+
+
+    }
+
+    public void ForwardX()
+    {
+        model = GameObject.Find("Model");
+        model.GetComponent<Station>().ForwardX();
+    }
+    public void ForwardZ()
+    {
+        model = GameObject.Find("Model");
+        model.GetComponent<Station>().ForwardZ();
+    }
+    public void BackX()
+    {
+        model = GameObject.Find("Model");
+        model.GetComponent<Station>().BackX();
+    }
+    public void BackZ()
+    {
+        model = GameObject.Find("Model");
+        model.GetComponent<Station>().BackZ();
     }
 }
