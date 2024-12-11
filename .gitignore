@@ -79,3 +79,6 @@ NuGet/
 
 # Unity Version Control (Plastic SCM)
 .plastic/
+
+# Mono Crash Reports
+/mono_crash*
