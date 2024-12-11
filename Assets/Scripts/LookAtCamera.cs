@@ -4,8 +4,7 @@ using UnityEngine;
 
 public class LookAtCamera : MonoBehaviour
 {
-    [SerializeField] 
-    Vector3 offset;
+    [SerializeField] Vector3 offset = new Vector3(0, 180, 0);
     Transform cam;
 
     void Start() => cam = Camera.main.transform;
