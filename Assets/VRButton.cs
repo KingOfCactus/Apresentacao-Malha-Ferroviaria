@@ -23,7 +23,7 @@ public class VRButton : MonoBehaviour
 
     public void Start()
     {
-        if (fill.Equals(null))
+        if (fill == null)
            Debug.LogError($"[{transform.name}] Fill image not selected");
     }
 
