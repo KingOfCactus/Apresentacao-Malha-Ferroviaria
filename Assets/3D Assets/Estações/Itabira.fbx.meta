@@ -1,0 +1,539 @@
+fileFormatVersion: 2
+guid: c32ede928ae0e0b2eaef3e0ef8b6a475
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_createdeco_block_palettes_chain_link_fence_industrial_i
+    second: {fileID: 2100000, guid: 111971e75d4c0661181979646163edf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_createdeco_block_palettes_chain_link_fence_industrial_iron_
+    second: {fileID: 2100000, guid: 111971e75d4c0661181979646163edf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_createdeco_block_palettes_chain_link_fence_iron_chain_link
+    second: {fileID: 2100000, guid: 5a3d6551457f58f5298f6bd2c3c5d969, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_createdeco_block_palettes_sheet_metal_industrial_iron_sheet
+    second: {fileID: 2100000, guid: cc1eb144b1a0d53c9b38b13a787a0027, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_createdeco_block_palettes_sheet_metal_iron_sheet_metal
+    second: {fileID: 2100000, guid: 30eb72521a200860fbfc6bcafeb9e571, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_createdeco_block_palettes_windows_industrial_iron_window
+    second: {fileID: 2100000, guid: be67e86962adae6308fc81765394daf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_dramaticdoors_block_tall_iron_door_bottom
+    second: {fileID: 2100000, guid: d1695105d75ccb51cb97b9eeb9367f75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_dramaticdoors_block_tall_iron_door_middle
+    second: {fileID: 2100000, guid: 26ac78fdb7bc2b485839aa3c367bb96b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_dramaticdoors_block_tall_iron_door_top
+    second: {fileID: 2100000, guid: a93a678fabb15a9eeac5cff1292441ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_fire_extinguisher_block_exit_background
+    second: {fileID: 2100000, guid: f7d114fea21f83e4dbaa303fa27c9a4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_fire_extinguisher_block_exit_sign_right
+    second: {fileID: 2100000, guid: 3a3a37b283cea21db825cc936aeab0d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_fire_extinguisher_block_fire_extinguisher
+    second: {fileID: 2100000, guid: 0b5f1545faa2f3707b0e757a39a4e78d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_fire_extinguisher_block_fire_extinguisher_sign
+    second: {fileID: 2100000, guid: 4fe06f3a69dd056488c1ecdd83d4be23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_fire_extinguisher_block_fire_extinguisher_sign_background
+    second: {fileID: 2100000, guid: 2c770ef87cac3c1e193203ccaecdb8e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_azalea_leaves_BIOME
+    second: {fileID: 2100000, guid: 203ff0968146ee4dea61654281fcb8ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_azure_bluet
+    second: {fileID: 2100000, guid: c61df887630f78e36a34baabfc41eb47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_bedrock
+    second: {fileID: 2100000, guid: ef822e96f4c57ddcd9d06a46e9e3030b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_black_concrete
+    second: {fileID: 2100000, guid: 2b745577fefbd31bdb03896cd03df17b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_coarse_dirt
+    second: {fileID: 2100000, guid: 16f3c88a21d5fcfd9bbe93e424a67e39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_cornflower
+    second: {fileID: 2100000, guid: 997f6743408f8336b811d6e593670807, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_cyan_concrete
+    second: {fileID: 2100000, guid: 7695cbfc163d9650abb7e82ab478d547, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_dandelion
+    second: {fileID: 2100000, guid: d6c2335b0e36cc06fbf4fd8da12d55cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_dirt
+    second: {fileID: 2100000, guid: 6b15fa3076155fa888200b51e6e11a7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_dirt_BIOME
+    second: {fileID: 2100000, guid: 7f0493c616d92cc60b6d40c11dd10d08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_flowering_azalea_leaves
+    second: {fileID: 2100000, guid: 29db7169c32345d9ea0b7228d09b33a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_grass_block_side_BIOME
+    second: {fileID: 2100000, guid: 02d01346c98f7517ab0eb29b65c20ccc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_grass_block_top_BIOME
+    second: {fileID: 2100000, guid: 561dfcc9156fb95ae98a7ffa73ae1789, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_gravel
+    second: {fileID: 2100000, guid: d8e4c09d9ce60f662974841ee44577ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_gray_concrete
+    second: {fileID: 2100000, guid: 9287eeffc847ccd749626c52e689c28b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_iron_bars
+    second: {fileID: 2100000, guid: 87869aadcc1acbe33b26104fcfdabcbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_light_gray_concrete
+    second: {fileID: 2100000, guid: 549d4757652b97a339488a8348743d1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_oak_leaves_BIOME
+    second: {fileID: 2100000, guid: db7e4c1a5319da1aa8b3ace216a09976, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_oxeye_daisy
+    second: {fileID: 2100000, guid: 8e9522b64f925105381b0b9312c64554, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_quartz_block_side
+    second: {fileID: 2100000, guid: 8a5461ab8eb2d0bc1aa6106f2a962987, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_quartz_block_top
+    second: {fileID: 2100000, guid: 84161fcbe1632f90f9a84d1d7327947c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_quartz_bricks
+    second: {fileID: 2100000, guid: a0f3bdf397d06c86ebe9b5a15a52ac67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_rail
+    second: {fileID: 2100000, guid: f8d89958e7395a6f08f10cdd320c87b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_redstone_lamp_on
+    second: {fileID: 2100000, guid: e3398074a37af2ee7a953a8bdfc16599, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_stone_bricks
+    second: {fileID: 2100000, guid: 30a8544cf292a1f59bf0ab0dcdbd6eed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_stripped_oak_log
+    second: {fileID: 2100000, guid: 746126ef77e0b6d31bc0dbb27c54fbc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_white_concrete
+    second: {fileID: 2100000, guid: ac4a25bf1b10110a28ebe196d96cb96b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_white_concrete_powder
+    second: {fileID: 2100000, guid: 1441abd4eb440ff7584ce79a297cabc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_white_stained_glass
+    second: {fileID: 2100000, guid: 861b4c1eb48471d99a51cbaa3d1b20ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_white_wool
+    second: {fileID: 2100000, guid: 60b4bb104db60d2d2b1968b7a51f03a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_yellow_concrete
+    second: {fileID: 2100000, guid: 2142122fe1fcc7d20aaf4437d0532766, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: azalea_leaves
+    second: {fileID: 2800000, guid: 9bb1bd187c73d708cada7907ca55dd62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: azure_bluet
+    second: {fileID: 2800000, guid: d14828f7527482611807d1bdb3e21a71, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bedrock
+    second: {fileID: 2800000, guid: eb2e86c79739d2825857688181058460, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: black_concrete
+    second: {fileID: 2800000, guid: d7f3e0d3ef5dcf9799faff25e8df3761, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: coarse_dirt
+    second: {fileID: 2800000, guid: aeddaca5860a605c6ba5c2a60b54a33e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cornflower
+    second: {fileID: 2800000, guid: 0b1f31fead906ef1abb15171dabc3362, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cyan_concrete
+    second: {fileID: 2800000, guid: aa02dd6527b5a5978a35926c3668ffe7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dandelion
+    second: {fileID: 2800000, guid: 6612891cce372ba6189da86ed2794c46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dirt
+    second: {fileID: 2800000, guid: 2c9175467bb238d979ba17d2bac2c4d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: exit_background
+    second: {fileID: 2800000, guid: 9c1b901bccae35532a0dcd596cf99f99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: exit_sign_right
+    second: {fileID: 2800000, guid: 9c2f2856f317d2fc8b1f70cb15e4559e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fire_extinguisher
+    second: {fileID: 2800000, guid: 80df33b98d3c33f37bf7a3cb7a98e5ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fire_extinguisher_sign
+    second: {fileID: 2800000, guid: 9f0f18bf251cd0a53aac5a531ce6dbe3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fire_extinguisher_sign_background
+    second: {fileID: 2800000, guid: 7d75f4acd981c7ef3a32195e6f29f803, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: flowering_azalea_leaves
+    second: {fileID: 2800000, guid: fda8ec08ba2d86e9eb47a82fb305edeb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gravel
+    second: {fileID: 2800000, guid: d4da2ba4a33d792929a6913328bba0f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gray_concrete
+    second: {fileID: 2800000, guid: be9ad00a3d0bf2c8eb01c947443606e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: industrial_iron_chain_link
+    second: {fileID: 2800000, guid: 29bdfe3941847b26c9fb836fc989f1ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: industrial_iron_sheet_metal
+    second: {fileID: 2800000, guid: 625f1c64202eeee9c9c6f1dab9ad39af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: industrial_iron_window
+    second: {fileID: 2800000, guid: a2862b3bca275aa58ac8a8c00a8c9a86, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: iron_bars
+    second: {fileID: 2800000, guid: 7ae0a7846152b3935910c816c0926474, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: iron_chain_link
+    second: {fileID: 2800000, guid: 57811dfdc05822f349da5ae358dedd84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: iron_sheet_metal
+    second: {fileID: 2800000, guid: b56489f114aa9b43f8c6767236c11708, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: light_gray_concrete
+    second: {fileID: 2800000, guid: 8a8360d5bea7414a2bb7908b4daf390b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oak_leaves
+    second: {fileID: 2800000, guid: 6175c3cd85da8fbdeb98fd82be395b70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oxeye_daisy
+    second: {fileID: 2800000, guid: ce0ff0938f803872f81e3c3f75e12485, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: quartz_block_side
+    second: {fileID: 2800000, guid: 32d0c8e12c207712ab4505dc12b58a58, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: quartz_block_top
+    second: {fileID: 2800000, guid: 2abb33bf417dbc263bca77d2f6b81cae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: quartz_bricks
+    second: {fileID: 2800000, guid: e33d94c84d6c600b396f4802fdb98f6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rail
+    second: {fileID: 2800000, guid: d107ae402362c52848e6d65855b39478, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: redstone_lamp_on
+    second: {fileID: 2800000, guid: 939d470d3b81a73b69f5b8d51a456d39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stone_bricks
+    second: {fileID: 2800000, guid: 3faed15e369c1c6828343b1894c71e0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stripped_oak_log
+    second: {fileID: 2800000, guid: 4d051aaa23e13a227b6e71938e6dfb29, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tall_iron_door_bottom
+    second: {fileID: 2800000, guid: b9318323069c0580384b4fe832b3092e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tall_iron_door_middle
+    second: {fileID: 2800000, guid: 12846c01098935e95b77825b0db0206d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tall_iron_door_top
+    second: {fileID: 2800000, guid: 176d7a4fd674236f18517500052cdc6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: white_concrete
+    second: {fileID: 2800000, guid: 6a0931c0667be7865b85930d06fde487, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: white_concrete_powder
+    second: {fileID: 2800000, guid: f66e848e789b01570adb0ff61eadb416, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: white_stained_glass
+    second: {fileID: 2800000, guid: 9333f9ecce773be37a0d444dc9487ebe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: white_wool
+    second: {fileID: 2800000, guid: 22466dcd3446f7973a6484b8230fc5c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yellow_concrete
+    second: {fileID: 2800000, guid: fe874c338af5b11b6ba6fa87138d9c3c, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 2
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.03
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.00029999999
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
