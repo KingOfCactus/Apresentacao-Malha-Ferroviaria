@@ -10,14 +10,17 @@ public class SphericalVideoPlayer : MonoBehaviour
 	/* For some unknown reason, redmi devices tend to render a black screen if the render texture
 	   isn't present in the UI in some way. */
 	[SerializeField] RawImage weirdXiaomiWorkaround;
+	public bool isPlaying { get => player.isPlaying; }
 	
 	VideoPlayer player;
-	Material mat;
+	Renderer rndr;
 
-	void Start()
+	void Awake()
 	{
+		rndr = GetComponent<MeshRenderer>();
 		player = GetComponent<VideoPlayer>();
-		mat = GetComponent<MeshRenderer>().material;
+		
+		rndr.enabled = false;
 		player.renderMode = VideoRenderMode.RenderTexture;
 	}
 
@@ -36,9 +39,10 @@ public class SphericalVideoPlayer : MonoBehaviour
 		player.targetTexture = texture;
 		player.clip = video;
 
+		rndr.enabled = true;
 		player.targetTexture = texture;
 		weirdXiaomiWorkaround.texture = texture;
-		mat.mainTexture = weirdXiaomiWorkaround.texture;
+		rndr.material.mainTexture = weirdXiaomiWorkaround.texture;
 
 		if (prepareBeforePlaying)
 			StartCoroutine("PrepareAndPlay");
@@ -57,9 +61,10 @@ public class SphericalVideoPlayer : MonoBehaviour
 		var texture = new RenderTexture((int)player.clip.width, (int)player.clip.height, 24);
 		texture.depthStencilFormat = GraphicsFormat.D16_UNorm;
 
+		rndr.enabled = true;
 		player.targetTexture = texture;
 		weirdXiaomiWorkaround.texture = texture;
-		mat.mainTexture = weirdXiaomiWorkaround.texture;
+		rndr.material.mainTexture = weirdXiaomiWorkaround.texture;
 
 
 		if (prepareBeforePlaying)
