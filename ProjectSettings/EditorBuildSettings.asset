@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Pedro Nolasco.unity
+    guid: 50d80f2e8867bf935b4d813772779f37
+  - enabled: 0
     path: Assets/Scenes/360Video.unity
     guid: be3bd4e3a25858ca285e1ec39154e251
   m_configObjects:
