@@ -1174,7 +1174,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -397, y: 112}
+  m_AnchoredPosition: {x: -465.3, y: 112}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &798139200
@@ -2171,7 +2171,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1410454160
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3554,13 +3554,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1974193366}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: -0.19080894, w: 0.9816273}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.14421844}
   m_LocalScale: {x: 15.361918, y: 15.361918, z: -15.36192}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -22}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!328 &1974193371
 VideoPlayer:
   m_ObjectHideFlags: 0
@@ -3620,12 +3620,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 212e0fe5ac5d21d7a819fb358cecb69a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stationClips:
-  - {fileID: 32900000, guid: 6ea8fa5237c7a7d3bb8c2452584fc35b, type: 3}
-  - {fileID: 32900000, guid: 6542dde7d29798a989d236e5c0fec00f, type: 3}
-  - {fileID: 32900000, guid: 31c1b854690564381a2c4318d0c372f5, type: 3}
-  - {fileID: 32900000, guid: fca94676f17c5f6b4b33db1f006de566, type: 3}
-  - {fileID: 32900000, guid: e78d1524242f223fd810224d0588382b, type: 3}
+  stations:
+  - clip: {fileID: 32900000, guid: 633f3646dc32e9fb0b55a8bf8bca82b0, type: 3}
+    sphereRotation: {x: -8.445, y: -0.769, z: -16.777}
+  - clip: {fileID: 32900000, guid: 6542dde7d29798a989d236e5c0fec00f, type: 3}
+    sphereRotation: {x: 0, y: 0, z: -11.61}
+  - clip: {fileID: 32900000, guid: 31c1b854690564381a2c4318d0c372f5, type: 3}
+    sphereRotation: {x: 0, y: 0, z: -11.32}
+  - clip: {fileID: 32900000, guid: fca94676f17c5f6b4b33db1f006de566, type: 3}
+    sphereRotation: {x: 0, y: 572.85, z: -2.42}
+  - clip: {fileID: 32900000, guid: e78d1524242f223fd810224d0588382b, type: 3}
+    sphereRotation: {x: -3.341, y: -112.402, z: -8.74}
 --- !u!1 &2036189929
 GameObject:
   m_ObjectHideFlags: 0

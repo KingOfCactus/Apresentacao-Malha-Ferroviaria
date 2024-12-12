@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: "Assets/Scenes/Apresenta\xE7\xE3o Esta\xE7\xF5es.unity"
-    guid: 50d80f2e8867bf935b4d813772779f37
-  - enabled: 0
     path: "Assets/Scenes/Apresenta\xE7\xE3o 360.unity"
     guid: be3bd4e3a25858ca285e1ec39154e251
+  - enabled: 0
+    path: "Assets/Scenes/Apresenta\xE7\xE3o Esta\xE7\xF5es.unity"
+    guid: 50d80f2e8867bf935b4d813772779f37
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
