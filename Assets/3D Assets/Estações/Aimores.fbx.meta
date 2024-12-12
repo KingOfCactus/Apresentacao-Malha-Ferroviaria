@@ -3,11 +3,301 @@ guid: d18dd9edcb70a48d4b4083b257a46463
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_dramaticdoors_block_macaw_tall_warped_nether_door_lower
+    second: {fileID: 2100000, guid: 0770771a973ba532dbe72ae427b92484, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_dramaticdoors_block_macaw_tall_warped_nether_door_middle
+    second: {fileID: 2100000, guid: 87ce2d3dff34a2b628a9c05dbc72d0c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_dramaticdoors_block_macaw_tall_warped_nether_door_upper
+    second: {fileID: 2100000, guid: 44a0394dd6bb2e3b296442cf8209dd3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_dramaticdoors_block_tall_andesite_door_bottom
+    second: {fileID: 2100000, guid: c67182d9ff0973b4e807e781476598d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_dramaticdoors_block_tall_andesite_door_middle
+    second: {fileID: 2100000, guid: f8002c657e71c713186008b3009f332a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_dramaticdoors_block_tall_andesite_door_top
+    second: {fileID: 2100000, guid: 7f1d28492710a1b16bf14ae0328f4fa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_fire_extinguisher_block_exit_background
+    second: {fileID: 2100000, guid: f7d114fea21f83e4dbaa303fa27c9a4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_fire_extinguisher_block_exit_sign_right
+    second: {fileID: 2100000, guid: 3a3a37b283cea21db825cc936aeab0d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_fire_extinguisher_block_exit_sign_right_down
+    second: {fileID: 2100000, guid: d319cf4d4e784031889fe0a10d51e9ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_fire_extinguisher_block_fire_extinguisher
+    second: {fileID: 2100000, guid: 0b5f1545faa2f3707b0e757a39a4e78d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_fire_extinguisher_block_fire_extinguisher_sign
+    second: {fileID: 2100000, guid: 4fe06f3a69dd056488c1ecdd83d4be23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_fire_extinguisher_block_fire_extinguisher_sign_background
+    second: {fileID: 2100000, guid: 2c770ef87cac3c1e193203ccaecdb8e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_andesite
+    second: {fileID: 2100000, guid: 4ab4d93dda3e3c635ad7fb4f81652a26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_anvil
+    second: {fileID: 2100000, guid: 2d33f2bb1597640f8a4b4c58ee16519d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_azure_bluet
+    second: {fileID: 2100000, guid: c61df887630f78e36a34baabfc41eb47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_bedrock
+    second: {fileID: 2100000, guid: ef822e96f4c57ddcd9d06a46e9e3030b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_birch_planks
+    second: {fileID: 2100000, guid: ffcbe22c8653f28df94a6f3c7d67b7c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_black_concrete
+    second: {fileID: 2100000, guid: 2b745577fefbd31bdb03896cd03df17b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_coarse_dirt
+    second: {fileID: 2100000, guid: 16f3c88a21d5fcfd9bbe93e424a67e39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_cornflower
+    second: {fileID: 2100000, guid: 997f6743408f8336b811d6e593670807, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_cyan_concrete
+    second: {fileID: 2100000, guid: 7695cbfc163d9650abb7e82ab478d547, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_dandelion
+    second: {fileID: 2100000, guid: d6c2335b0e36cc06fbf4fd8da12d55cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_deepslate_bricks
+    second: {fileID: 2100000, guid: de7cda5ce2e855c00893314e77ddf5e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_dirt
+    second: {fileID: 2100000, guid: 6b15fa3076155fa888200b51e6e11a7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_dirt_BIOME
+    second: {fileID: 2100000, guid: 7f0493c616d92cc60b6d40c11dd10d08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_glass
+    second: {fileID: 2100000, guid: b1965f6a160669475b54447cfc23dfdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_grass_block_side_BIOME
+    second: {fileID: 2100000, guid: 02d01346c98f7517ab0eb29b65c20ccc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_grass_block_top_BIOME
+    second: {fileID: 2100000, guid: 561dfcc9156fb95ae98a7ffa73ae1789, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_gravel
+    second: {fileID: 2100000, guid: d8e4c09d9ce60f662974841ee44577ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_gray_concrete
+    second: {fileID: 2100000, guid: 9287eeffc847ccd749626c52e689c28b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_iron_bars
+    second: {fileID: 2100000, guid: 87869aadcc1acbe33b26104fcfdabcbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_light_gray_concrete
+    second: {fileID: 2100000, guid: 549d4757652b97a339488a8348743d1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_oak_leaves_BIOME
+    second: {fileID: 2100000, guid: db7e4c1a5319da1aa8b3ace216a09976, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_oak_log
+    second: {fileID: 2100000, guid: 957bc324ea7e95e4e878ff49cb092f00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_oak_log_top
+    second: {fileID: 2100000, guid: 88ed2b1575db4c129811396e2522772b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_oak_planks
+    second: {fileID: 2100000, guid: 852ed300f7a7be124a4f9fecbe94e363, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_oxeye_daisy
+    second: {fileID: 2100000, guid: 8e9522b64f925105381b0b9312c64554, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_pink_concrete
+    second: {fileID: 2100000, guid: da4c53a5db469013ba0d327db330742e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_polished_andesite
+    second: {fileID: 2100000, guid: 42b97040402935fd496ce9f0da712883, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_poppy
+    second: {fileID: 2100000, guid: 03c83ab49a251d6be990a7a49a79b6fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_quartz_block_bottom
+    second: {fileID: 2100000, guid: 09472cd3020592d738df89b5214fc328, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_quartz_block_side
+    second: {fileID: 2100000, guid: 8a5461ab8eb2d0bc1aa6106f2a962987, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_quartz_block_top
+    second: {fileID: 2100000, guid: 84161fcbe1632f90f9a84d1d7327947c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_rail
+    second: {fileID: 2100000, guid: f8d89958e7395a6f08f10cdd320c87b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_smooth_stone
+    second: {fileID: 2100000, guid: 082f00a5c4b12e5b8898bfa652cb6adb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_smooth_stone_slab_side
+    second: {fileID: 2100000, guid: c5ead4a65f43471e39d7a53f12b425be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_stone_bricks
+    second: {fileID: 2100000, guid: 30a8544cf292a1f59bf0ab0dcdbd6eed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_tall_grass_bottom_BIOME
+    second: {fileID: 2100000, guid: 7fd1de0ea7d5b8f22ab942b300b7df90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_tall_grass_top_BIOME
+    second: {fileID: 2100000, guid: 550d162ffd74ae0c0a28c3fea3de6422, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_white_concrete
+    second: {fileID: 2100000, guid: ac4a25bf1b10110a28ebe196d96cb96b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_minecraft_block_yellow_concrete
+    second: {fileID: 2100000, guid: 2142122fe1fcc7d20aaf4437d0532766, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_pfm_block_mesh
+    second: {fileID: 2100000, guid: 28085b70b73abd8efaede82a193a2ed2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_reevesfurniture_block_anvil
+    second: {fileID: 2100000, guid: 4502342fec2ba7bebb3b612230929a8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_reevesfurniture_block_bone_block_side
+    second: {fileID: 2100000, guid: 15117a207d094fc739480ed96cabce92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_reevesfurniture_block_dark_oak_planks
+    second: {fileID: 2100000, guid: 371e208a1892eec5fa6215bbdef08866, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_reevesfurniture_block_gray_concrete
+    second: {fileID: 2100000, guid: b3401f5e5352d092380c0170fa6091d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_reevesfurniture_block_gray_concrete_powder
+    second: {fileID: 2100000, guid: 2219de13c55a03ce388d8b21767b9b87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_reevesfurniture_block_stripped_dark_oak_log
+    second: {fileID: 2100000, guid: 053deb4a9e63d47418404b0ad29c37ba, type: 2}
   materials:
     materialImportMode: 2
-    materialName: 0
-    materialSearch: 1
+    materialName: 1
+    materialSearch: 2
     materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
@@ -35,7 +325,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.03
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -90,7 +380,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 0.00029999999
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0

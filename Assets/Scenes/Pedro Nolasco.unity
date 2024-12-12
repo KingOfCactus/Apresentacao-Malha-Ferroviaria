@@ -1313,8 +1313,8 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 538968583}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 1, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -1391,9 +1391,9 @@ RectTransform:
   - {fileID: 1944742741}
   m_Father: {fileID: 289017944}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 170.82756, y: -88.60901}
   m_SizeDelta: {x: 130.99402, y: 86.371216}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &532765908
@@ -1965,7 +1965,7 @@ RectTransform:
   m_Father: {fileID: 1528439821}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 10, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -2243,7 +2243,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &884845238
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2713,8 +2713,8 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1482207769}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.246, y: 0}
-  m_AnchorMax: {x: 0.246, y: 1}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -3465,9 +3465,9 @@ RectTransform:
   - {fileID: 912720456}
   m_Father: {fileID: 289017944}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 170.82756, y: -179.45581}
   m_SizeDelta: {x: 130.99402, y: 86.371216}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &1262186977
@@ -3748,7 +3748,7 @@ RectTransform:
   m_Father: {fileID: 1027493872}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0.9727059, y: 1}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 10, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -4176,9 +4176,9 @@ RectTransform:
   - {fileID: 1151372931}
   m_Father: {fileID: 289017944}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 170.82756, y: -361.1494}
   m_SizeDelta: {x: 130.99402, y: 86.371216}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &1468351634
@@ -4858,7 +4858,7 @@ RectTransform:
   m_Father: {fileID: 1738558152}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0.246, y: 1}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 10, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -4932,8 +4932,8 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 585667233}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.9727059, y: 0}
-  m_AnchorMax: {x: 0.9727059, y: 1}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -5295,7 +5295,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1967439070
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5361,9 +5361,9 @@ RectTransform:
   - {fileID: 1924745751}
   m_Father: {fileID: 289017944}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 170.82756, y: -270.3026}
   m_SizeDelta: {x: 130.99402, y: 86.371216}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &1995658887
