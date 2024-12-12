@@ -14,7 +14,7 @@ public class LookAtCamera : MonoBehaviour
         transform.LookAt(cam.position);
         transform.Rotate(offset);
 
-        transform.eulerAngles = new Vector3(transform.eulerAngles.x, transform.eulerAngles.y, 
-                                            oldRot.z);
+        // transform.eulerAngles = new Vector3(transform.eulerAngles.x, transform.eulerAngles.y, 
+        //                                     oldRot.z);
     }
 }
