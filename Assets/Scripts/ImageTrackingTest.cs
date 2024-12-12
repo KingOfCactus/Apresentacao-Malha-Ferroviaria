@@ -22,6 +22,7 @@ public class ImageTrackingTest : MonoBehaviour
     GameObject mask, model;
     
     float frameRate;
+    bool inDebugMode;
     float elapsedTime, elapsedFrames;
     
     
@@ -64,6 +65,9 @@ public class ImageTrackingTest : MonoBehaviour
 
     void Update()
     {
+        if (Input.GetKeyDown("f"))
+            inDebugMode = !inDebugMode;
+
         if (elapsedTime >= 1f)
         {
             frameRate = elapsedFrames / elapsedTime;
@@ -77,6 +81,8 @@ public class ImageTrackingTest : MonoBehaviour
 
     void OnGUI()
     {
+        if (!inDebugMode)
+            return;
         var labelStyle = GUI.skin.label;
         labelStyle.fontSize = 24;
 
