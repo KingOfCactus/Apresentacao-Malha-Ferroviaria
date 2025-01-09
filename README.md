@@ -3,7 +3,7 @@
 	<img src="GitHub/vr-1.gif"; width=800pm;>
 </p>
 
-Esse projeto consiste em duas apresentações da Estrada de Ferro Vitória a Minas da Vale, uma em realidade aumentada e outra em realidade virtual, sendo entregues como Projeto Integrador para a conclusão do curso de aprendizagem técnica industrial do Senai.
+Esse projeto consiste em duas apresentações da Estrada de Ferro Vitória a Minas da Vale, uma em [realidade aumentada e outra em realidade virtual](https://github.com/KingOfCactus/Apresentacao-Malha-Ferroviaria/releases/tag/v1.0.0), sendo entregues como Projeto Integrador para a conclusão do curso de aprendizagem técnica industrial do Senai.
 
 ## Descrição
 
