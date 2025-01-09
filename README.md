@@ -14,23 +14,23 @@ Foram contempladas as estações de Pedro Nolasco, Aimorés, Governador Valadare
 	<img src="GitHub/sala-2.jpeg"; width=800pm;>
 </p>
 
+## Realidade Virtual 
+
+A realidade virtual foi utilizada para simular uma experiência de viagem partindo de Vitória até Belo Horizonte, acompanhando o ponto de vista de um passageiro. Usando um dispositivo Android e um óculos mobile estilo cardboard, o usuário pode escolher entre as cinco apresentações, que podem ser vistas em um [desktop por meio dessa playlist](https://www.youtube.com/playlist?list=PL3JiqLSDHim13iy7YkcJWuTGjGZXwYc5F). Esse aplicativo pode ser [baixado por aqui](https://github.com/KingOfCactus/Apresentacao-Malha-Ferroviaria/releases/download/v1.0.0/VR.-malha-ferroviaria.apk).
+
+<p align="center">
+	<img src="GitHub/vr-2.gif"; width=800pm;>
+</p>
+
 ## Realidade Aumentada 
 
-Contém informações gerais sobre a malha ferroviária nacional e uma breve descrição de cada uma das estações. As estações são projetadas em volta de um protótipo de locomotiva de passageiros confeccionado com chapas de metal, simulando o trajeto real da mesma.
+Contém informações gerais sobre a malha ferroviária nacional e uma breve descrição de cada uma das estações. As estações são projetadas em volta de um protótipo de locomotiva de passageiros confeccionado com chapas de metal, simulando o trajeto real da mesma. Esse aplicativo pode ser [baixado por aqui](https://github.com/KingOfCactus/Apresentacao-Malha-Ferroviaria/releases/download/v1.0.0/AR.-malha-ferroviaria.apk), sendo necessário escanear esse [qrcode](https://github.com/KingOfCactus/Apresentacao-Malha-Ferroviaria/blob/main/GitHub/qrcode.png) durante o uso do mesmo.
 
 <p align="center">
 	<img src="GitHub/ar.png"; width=400pm;>
 	<img src="GitHub/sala-1.jpeg"; width=400pm;>
 </p>
 
-
-## Realidade Virtual 
-
-A realidade virtual foi utilizada para simular uma experiência de viagem partindo de Vitória até Belo Horizonte, acompanhando o ponto de vista de um passageiro. Usando um dispositivo Android e um óculos mobile estilo cardboard, o usuário pode escolher entre as cinco apresentações, que podem ser vistas em um [desktop por meio dessa playlist](https://www.youtube.com/playlist?list=PL3JiqLSDHim13iy7YkcJWuTGjGZXwYc5F).
-
-<p align="center">
-	<img src="GitHub/vr-2.gif"; width=800pm;>
-</p>
 
 ## Como foi feito
 
