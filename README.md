@@ -50,15 +50,15 @@ Para construir as estações, foram feitas medições aéreas no Google Earth e 
 
 <p align="center">
 	
-|      **GRUPO**       |             **CONTRIBUIÇÃO PRINCIPAL**             |
-| :------------------- | -------------------------------------------------: |
-| **Victor Hugo**      | Minecraft (líder), Programação e Organização Geral |                 
-| **Mariana Trindade** | Caldeiraria (líder), Minecraft e Organização Geral |
-| **Thielly Cristini** | Pesquisa, Caldeiraria, Minecraft e Decoração       |
-| **Bianca Berger**    | Pesquisa, Caldeiraria, Minecraft e Decoração       | 
-| **Állan Holz**       | Solidworks, Caldeiraria e Minecraft		    |
-| **Juan Carlos**      | Solidworks e Minecraft 	                    |
-| **Gabriel Lopes**    | Pesquisa e Minecraft                               |
+|                      **GRUPO**                      |             **CONTRIBUIÇÃO PRINCIPAL**             |
+| :-------------------------------------------------- | -------------------------------------------------: |
+| [**Victor Hugo**](https://github.com/KingOfCactus/) | Minecraft (líder), Programação e Organização Geral |                 
+| **Mariana Trindade** 				      | Caldeiraria (líder), Minecraft e Organização Geral |
+| **Thielly Cristini**                                | Pesquisa, Caldeiraria, Minecraft e Decoração       |
+| **Bianca Berger**                                   | Pesquisa, Caldeiraria, Minecraft e Decoração       | 
+| **Állan Holz**                                      | Solidworks, Caldeiraria e Minecraft		   |
+| **Juan Carlos**                                     | Solidworks e Minecraft 	                           |
+| **Gabriel Lopes**                                   | Pesquisa e Minecraft                               |
 </p>
 
 <p align="center">
