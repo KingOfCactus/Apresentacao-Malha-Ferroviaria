@@ -49,6 +49,7 @@ Para construir as estações, foram feitas medições aéreas no Google Earth e 
 
 
 <p align="center">
+	
 |      **GRUPO**       |             **CONTRIBUIÇÃO PRINCIPAL**             |
 | :------------------- | -------------------------------------------------: |
 | **Victor Hugo**      | Minecraft (líder), Programação e Organização Geral |                 
@@ -61,6 +62,7 @@ Para construir as estações, foram feitas medições aéreas no Google Earth e 
 </p>
 
 <p align="center">
+	
 |      **AGRADECIMENTOS ESPECIAIS**       |  **CONTRIBUIÇÃO PRINCIPAL**  |
 | :-------------------------------------- | ---------------------------: |
 | **Murilo Quartezani**                   | Auxílio no Minecraft         |                 
