@@ -63,8 +63,8 @@ Para construir as estações, foram feitas medições aéreas no Google Earth e 
 
 <p align="center">
 	
-|      **AGRADECIMENTOS ESPECIAIS**       |  **CONTRIBUIÇÃO PRINCIPAL**  |
-| :-------------------------------------- | ---------------------------: |
-| **Murilo Quartezani**                   | Auxílio no Minecraft         |                 
-| **Nicolas Goldner**                     | Auxílio no Minecraft         |
+|             **AGRADECIMENTOS ESPECIAIS**              |  **CONTRIBUIÇÃO PRINCIPAL**  |
+| :---------------------------------------------------- | ---------------------------: |
+| [**Murilo Quartezani**](https://github.com/Muriloxox) | Auxílio no Minecraft         |                 
+| **Nicolas Goldner**                                   | Auxílio no Minecraft         |
 </p>
